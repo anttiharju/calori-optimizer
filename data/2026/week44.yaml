@@ -1,0 +1,259 @@
+mon: # 2026-10-26
+- meal: Peanut Butter Delight
+  time: breakfast
+  image: 
+    https://qnlcyahsjuladxeiehcq.supabase.co/storage/v1/object/public/new-meal-images/Plates/Peanut%20Butter.JPG
+  macros:
+    calories: 399
+    protein: 24
+    carbs: 40
+    fat: 14
+- meal: Tofu & Chickpeas
+  time: lunch
+  image: 
+    https://qnlcyahsjuladxeiehcq.supabase.co/storage/v1/object/public/new-meal-images/Plates/Tofu%20&%20Chickpeas.JPG
+  macros:
+    calories: 648
+    protein: 40
+    carbs: 53
+    fat: 28
+- meal: Butter Chicken
+  time: dinner
+  image: 
+    https://qnlcyahsjuladxeiehcq.supabase.co/storage/v1/object/public/new-meal-images/Plates/Butter%20Chicken.JPG
+  macros:
+    calories: 653
+    protein: 49
+    carbs: 70
+    fat: 18
+- meal: Chicken Burrito
+  time: snack
+  image: 
+    https://qnlcyahsjuladxeiehcq.supabase.co/storage/v1/object/public/new-meal-images/Plates/Chicken%20Burrito.JPG
+  macros:
+    calories: 398
+    protein: 22
+    carbs: 37
+    fat: 17
+tue: # 2026-10-27
+- meal: Apple Delight
+  time: breakfast
+  image: 
+    https://qnlcyahsjuladxeiehcq.supabase.co/storage/v1/object/public/new-meal-images/Plates/Apple%20Delight.JPG
+  macros:
+    calories: 490
+    protein: 26
+    carbs: 62
+    fat: 13
+- meal: Buffalo Chicken & Mash
+  time: lunch
+  image: 
+    https://qnlcyahsjuladxeiehcq.supabase.co/storage/v1/object/public/new-meal-images/Plates/Buffalo%20Chicken%20&%20Mash.JPG
+  macros:
+    calories: 589
+    protein: 41
+    carbs: 42
+    fat: 27
+- meal: Chicken & Chickpeas
+  time: dinner
+  image: 
+    https://qnlcyahsjuladxeiehcq.supabase.co/storage/v1/object/public/new-meal-images/Plates/Chicken%20&%20Chickpeas.JPG
+  macros:
+    calories: 689
+    protein: 49
+    carbs: 62
+    fat: 25
+- meal: Mango Chia Pudding
+  time: snack
+  image: 
+    https://qnlcyahsjuladxeiehcq.supabase.co/storage/v1/object/public/new-meal-images/Plates/Mango%20Chia%20Pudding.JPG
+  macros:
+    calories: 331
+    protein: 16
+    carbs: 37
+    fat: 11
+wed: # 2026-10-28
+- meal: Oreo Protein Oats
+  time: breakfast
+  image: 
+    https://qnlcyahsjuladxeiehcq.supabase.co/storage/v1/object/public/new-meal-images/Plates/Oreo.JPG
+  macros:
+    calories: 485
+    protein: 26
+    carbs: 64
+    fat: 12
+- meal: Chicken Curry & Rice
+  time: lunch
+  image: 
+    https://qnlcyahsjuladxeiehcq.supabase.co/storage/v1/object/public/new-meal-images/Plates/Chicken%20Curry%20&%20Rice.JPG
+  macros:
+    calories: 639
+    protein: 39
+    carbs: 77
+    fat: 18
+- meal: Beef & Garlic Potatoes
+  time: dinner
+  image: 
+    https://qnlcyahsjuladxeiehcq.supabase.co/storage/v1/object/public/new-meal-images/Plates/Beef%20&%20Garlic%20Potatoes.JPG
+  macros:
+    calories: 589
+    protein: 42
+    carbs: 32
+    fat: 31
+- meal: Seabuckthorn Overnight Oats
+  time: snack
+  image: 
+    https://qnlcyahsjuladxeiehcq.supabase.co/storage/v1/object/public/new-meal-images/Plates/Seabuckthorn%20Oats.JPG
+  macros:
+    calories: 516
+    protein: 28
+    carbs: 66
+    fat: 13
+thu: # 2026-10-29
+- meal: Blackcurrant Overnight Oats
+  time: breakfast
+  image: 
+    https://qnlcyahsjuladxeiehcq.supabase.co/storage/v1/object/public/new-meal-images/Plates/Blackcurrant%20Oats.JPG
+  macros:
+    calories: 504
+    protein: 26
+    carbs: 67
+    fat: 11
+- meal: Chili Con Carne
+  time: lunch
+  image: 
+    https://qnlcyahsjuladxeiehcq.supabase.co/storage/v1/object/public/new-meal-images/Plates/Chili%20Con%20Carne.JPG
+  macros:
+    calories: 622
+    protein: 31
+    carbs: 82
+    fat: 14
+- meal: Salmon & Carrot Mash
+  time: dinner
+  image: 
+    https://qnlcyahsjuladxeiehcq.supabase.co/storage/v1/object/public/new-meal-images/Plates/Salmon%20&%20Carrot%20Mash.JPG
+  macros:
+    calories: 608
+    protein: 40
+    carbs: 36
+    fat: 32
+- meal: Strawberry Rice Porridge
+  time: snack
+  image: 
+    https://qnlcyahsjuladxeiehcq.supabase.co/storage/v1/object/public/new-meal-images/Plates/Strawberry%20Porridge.JPG
+  macros:
+    calories: 371
+    protein: 16
+    carbs: 46
+    fat: 12
+fri: # 2026-10-30
+- meal: Orange Mousse & Dark Chocolate
+  time: breakfast
+  image: 
+    https://qnlcyahsjuladxeiehcq.supabase.co/storage/v1/object/public/new-meal-images/Plates/Orange%20Mousse.JPG
+  macros:
+    calories: 422
+    protein: 21
+    carbs: 31
+    fat: 22
+- meal: Sweet & Sour Chicken
+  time: lunch
+  image: 
+    https://qnlcyahsjuladxeiehcq.supabase.co/storage/v1/object/public/new-meal-images/Plates/Sweet%20&%20Sour%20Chicken.JPG
+  macros:
+    calories: 647
+    protein: 44
+    carbs: 66
+    fat: 21
+- meal: Creamy Tomato Beef Rigatoni
+  time: dinner
+  image: 
+    https://qnlcyahsjuladxeiehcq.supabase.co/storage/v1/object/public/new-meal-images/Plates/Creamy%20Tomato%20Beef.JPG
+  macros:
+    calories: 584
+    protein: 32
+    carbs: 59
+    fat: 22
+- meal: Mexican Pork Burrito
+  time: snack
+  image: 
+    https://qnlcyahsjuladxeiehcq.supabase.co/storage/v1/object/public/new-meal-images/Plates/Mexican%20Pork%20Burrito.JPG
+  macros:
+    calories: 416
+    protein: 21
+    carbs: 38
+    fat: 19
+sat: # 2026-10-31
+- meal: Mango Rice Porridge
+  time: breakfast
+  image: 
+    https://qnlcyahsjuladxeiehcq.supabase.co/storage/v1/object/public/new-meal-images/Plates/Mango%20Rice%20Porridge.JPG
+  macros:
+    calories: 406
+    protein: 14
+    carbs: 44
+    fat: 19
+- meal: Lasagnette
+  time: lunch
+  image: 
+    https://qnlcyahsjuladxeiehcq.supabase.co/storage/v1/object/public/new-meal-images/Plates/Lasagnette.JPG
+  macros:
+    calories: 706
+    protein: 41
+    carbs: 52
+    fat: 34
+- meal: Spicy Tofu & Couscous
+  time: dinner
+  image: 
+    https://qnlcyahsjuladxeiehcq.supabase.co/storage/v1/object/public/new-meal-images/Plates/Spicy%20Tofy.JPG
+  macros:
+    calories: 562
+    protein: 31
+    carbs: 61
+    fat: 20
+- meal: Tropical Chia Pudding
+  time: snack
+  image: 
+    https://qnlcyahsjuladxeiehcq.supabase.co/storage/v1/object/public/new-meal-images/Plates/Tropical%20Chia.JPG
+  macros:
+    calories: 417
+    protein: 22
+    carbs: 40
+    fat: 15
+sun: # 2026-11-01
+- meal: Blueberry & Banana Oats
+  time: breakfast
+  image: 
+    https://qnlcyahsjuladxeiehcq.supabase.co/storage/v1/object/public/new-meal-images/Plates/Blueberry%20&%20Banana.JPG
+  macros:
+    calories: 490
+    protein: 27
+    carbs: 69
+    fat: 8
+- meal: Spicy Salmon & Quinoa
+  time: lunch
+  image: 
+    https://qnlcyahsjuladxeiehcq.supabase.co/storage/v1/object/public/new-meal-images/Plates/Spicy%20Salmon.JPG
+  macros:
+    calories: 685
+    protein: 45
+    carbs: 58
+    fat: 29
+- meal: Beef Skillet
+  time: dinner
+  image: 
+    https://qnlcyahsjuladxeiehcq.supabase.co/storage/v1/object/public/new-meal-images/Plates/Beef%20Skillet.JPG
+  macros:
+    calories: 573
+    protein: 36
+    carbs: 38
+    fat: 30
+- meal: Seabuckthorn Chia Pudding
+  time: snack
+  image: 
+    https://qnlcyahsjuladxeiehcq.supabase.co/storage/v1/object/public/new-meal-images/Plates/Seabuckthorn%20Chia.JPG
+  macros:
+    calories: 356
+    protein: 18
+    carbs: 29
+    fat: 17
