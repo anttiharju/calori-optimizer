@@ -31,7 +31,7 @@ mon: # 2026-11-09
   image: 
     https://qnlcyahsjuladxeiehcq.supabase.co/storage/v1/object/public/new-meal-images/Plates/Mint%20Chocolate%20Porridge.JPG
   macros:
-    calories: 330
+    calories: 332
     protein: 13
     carbs: 38
     fat: 13
@@ -115,7 +115,7 @@ thu: # 2026-11-12
   image: 
     https://qnlcyahsjuladxeiehcq.supabase.co/storage/v1/object/public/new-meal-images/Plates/Mango%20Rice%20Porridge.JPG
   macros:
-    calories: 406
+    calories: 409
     protein: 14
     carbs: 44
     fat: 19
@@ -152,10 +152,10 @@ fri: # 2026-11-13
   image: 
     https://qnlcyahsjuladxeiehcq.supabase.co/storage/v1/object/public/new-meal-images/Plates/Strawberry%20Porridge.JPG
   macros:
-    calories: 371
+    calories: 374
     protein: 16
-    carbs: 46
-    fat: 12
+    carbs: 47
+    fat: 13
 - meal: Chili Con Carne
   time: lunch
   image: 
