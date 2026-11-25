@@ -4,7 +4,7 @@ mon: # 2026-11-16
   image: 
     https://qnlcyahsjuladxeiehcq.supabase.co/storage/v1/object/public/new-meal-images/Plates/Peanut%20Butter.JPG
   macros:
-    calories: 399
+    calories: 398
     protein: 24
     carbs: 40
     fat: 14
@@ -31,9 +31,9 @@ mon: # 2026-11-16
   image: 
     https://qnlcyahsjuladxeiehcq.supabase.co/storage/v1/object/public/new-meal-images/Plates/Oreo.JPG
   macros:
-    calories: 485
+    calories: 484
     protein: 26
-    carbs: 64
+    carbs: 63
     fat: 12
 tue: # 2026-11-17
 - meal: Seabuckthorn Overnight Oats
@@ -41,19 +41,19 @@ tue: # 2026-11-17
   image: 
     https://qnlcyahsjuladxeiehcq.supabase.co/storage/v1/object/public/new-meal-images/Plates/Seabuckthorn%20Oats.JPG
   macros:
-    calories: 516
+    calories: 514
     protein: 28
-    carbs: 66
+    carbs: 65
     fat: 13
 - meal: Teriyaki Salmon & Rice
   time: lunch
   image: 
     https://qnlcyahsjuladxeiehcq.supabase.co/storage/v1/object/public/new-meal-images/Plates/Teriyaki%20Salmon.JPG
   macros:
-    calories: 653
-    protein: 39
+    calories: 681
+    protein: 37
     carbs: 68
-    fat: 23
+    fat: 27
 - meal: Chicken Curry & Rice
   time: dinner
   image: 
@@ -105,9 +105,9 @@ wed: # 2026-11-18
   image: 
     https://qnlcyahsjuladxeiehcq.supabase.co/storage/v1/object/public/new-meal-images/Plates/Apple%20Delight.JPG
   macros:
-    calories: 490
-    protein: 26
-    carbs: 62
+    calories: 489
+    protein: 27
+    carbs: 61
     fat: 13
 thu: # 2026-11-19
 - meal: Tropical Chia Pudding
@@ -152,19 +152,19 @@ fri: # 2026-11-20
   image: 
     https://qnlcyahsjuladxeiehcq.supabase.co/storage/v1/object/public/new-meal-images/Plates/Blueberry%20&%20Banana.JPG
   macros:
-    calories: 490
-    protein: 27
-    carbs: 69
+    calories: 480
+    protein: 26
+    carbs: 68
     fat: 8
 - meal: Salmon & Carrot Mash
   time: lunch
   image: 
     https://qnlcyahsjuladxeiehcq.supabase.co/storage/v1/object/public/new-meal-images/Plates/Salmon%20&%20Carrot%20Mash.JPG
   macros:
-    calories: 608
-    protein: 40
+    calories: 632
+    protein: 38
     carbs: 36
-    fat: 32
+    fat: 35
 - meal: Creamy Tomato Beef Rigatoni
   time: dinner
   image: 
@@ -189,7 +189,7 @@ sat: # 2026-11-21
   image: 
     https://qnlcyahsjuladxeiehcq.supabase.co/storage/v1/object/public/new-meal-images/Plates/Raspberry%20Chocolate.JPG
   macros:
-    calories: 389
+    calories: 388
     protein: 21
     carbs: 51
     fat: 9
@@ -226,9 +226,9 @@ sun: # 2026-11-22
   image: 
     https://qnlcyahsjuladxeiehcq.supabase.co/storage/v1/object/public/new-meal-images/Plates/Blackcurrant%20Oats.JPG
   macros:
-    calories: 504
+    calories: 503
     protein: 26
-    carbs: 67
+    carbs: 66
     fat: 11
 - meal: Tandori Chicken & Rice
   time: lunch
@@ -244,10 +244,10 @@ sun: # 2026-11-22
   image: 
     https://qnlcyahsjuladxeiehcq.supabase.co/storage/v1/object/public/new-meal-images/Plates/Spicy%20Salmon.JPG
   macros:
-    calories: 685
-    protein: 45
+    calories: 703
+    protein: 41
     carbs: 58
-    fat: 29
+    fat: 33
 - meal: Strawberry Rice Porridge
   time: snack
   image: 
