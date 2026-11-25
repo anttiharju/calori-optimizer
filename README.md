@@ -126,13 +126,13 @@ uv run calori.py select --kcal-floor 2100 --apply
 To require a specific meal in the plan, run:
 
 ```sh
-uv run calori.py select --kcal-floor 2164 --include "Peanut Butter Delight"
+uv run calori.py select --kcal-floor 2100 --include "Choco Peanut Oats"
 ```
 
 To save that plan, run:
 
 ```sh
-uv run calori.py select --kcal-floor 2164 --include "Peanut Butter Delight" --apply
+uv run calori.py select --kcal-floor 2100 --include "Choco Peanut Oats" --apply
 ```
 
 The `--include` option requires an exact meal name. Each included meal must appear once in the week, even if you previously ate it.
