@@ -695,11 +695,24 @@ def prepare_selection_plan(
     weeks = exported_weeks(output_dir)
     if not weeks:
         raise CaloriError("No exported weeks exist. Run: uv run calori.py fetch")
-    monday = weeks[-1][0]
-    if monday < current_monday():
-        raise CaloriError("The latest exported week is in the past. Run the fetch command again.")
+    
+    # Find the first open week from the exported weeks, starting with the latest
+    week_id = None
+    monday = None
+    for candidate_monday, _path in reversed(weeks):
+        if candidate_monday < current_monday():
+            continue
+        try:
+            week_id = get_week_id(client, candidate_monday, require_open=True)
+            monday = candidate_monday
+            break
+        except CaloriError:
+            continue
+    
+    if week_id is None:
+        raise CaloriError("No open weeks available for selections. Run: uv run calori.py fetch")
+    
     eaten = count_selected_meals(weeks[:-1])
-    week_id = get_week_id(client, monday, require_open=True)
     subscription_id = get_subscription_id(client)
     selections = get_selections(
         client, subscription_id, week_id, "id,meal_id,day_of_week,meal_time"
